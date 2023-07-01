@@ -1,4 +1,4 @@
-#🎮 Pong C++ (Raylib)
+🎮 Pong C++ (Raylib)
 
 Pong game made while learning the Raylib graphics framework
 ✒️ Description
