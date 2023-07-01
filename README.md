@@ -4,7 +4,7 @@
 This game was a quick project I made to experiment with th Raylib graphisc framework and C++. Raylib made it easy to draw graphics on the screen which saved a ton of time while creating this project. <br>
 
 <h2>⚙️ Tools </h2><br> 
-[Raylib]([url](https://www.raylib.com/)) <br>
+Raylib <br>
 C++
 
 <h2>🕹️ Controls </h2> <br>
