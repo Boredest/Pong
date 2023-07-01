@@ -1,19 +1,18 @@
-🎮 Pong C++ (Raylib)
+<h2>🎮 Pong C++ (Raylib) </h2>
 
-Pong game made while learning the Raylib graphics framework
-✒️ Description
-This game was a quick project I made to experiment with th Raylib graphisc framework and C++. Raylib made it easy to draw graphics on the screen which saved a ton of time while creating this project.
+<h2>✒️ Description </h2> 
+This game was a quick project I made to experiment with th Raylib graphisc framework and C++. Raylib made it easy to draw graphics on the screen which saved a ton of time while creating this project. <br>
 
-⚙️ Tools
-[Raylib]([url](https://www.raylib.com/))
+<h2>⚙️ Tools </h2><br> 
+[Raylib]([url](https://www.raylib.com/)) <br>
 C++
 
-🕹️ Controls
-Keyboard:
-Left Paddle = W/D
+<h2>🕹️ Controls </h2> <br>
+Keyboard: <br>
+Left Paddle = W/D <br>
 Right Paddle Up Arrow / Down Arrow
 
-📷 Screenshots
+<h2>📷 Screenshots</h2>
 
 ![screenshot01](https://github.com/Boredest/PongC-/assets/19357608/d5ccebfc-a757-4433-be5e-f5a86ccffc48)
 
