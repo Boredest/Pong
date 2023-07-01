@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Matt\source\repos\PongRay\PongRay\main.cpp(49,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matt\source\repos\PongRay\PongRay\main.cpp(56,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matt\source\repos\PongRay\PongRay\main.cpp(57,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matt\source\repos\PongRay\PongRay\main.cpp(76,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matt\source\repos\PongRay\PongRay\main.cpp(137,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matt\source\repos\PongRay\PongRay\main.cpp(138,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PongRay.vcxproj -> C:\Users\Matt\source\repos\PongRay\Debug\PongRay.exe
