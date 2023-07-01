@@ -1,5 +1,6 @@
 #🎮 Pong C++ (Raylib)
-C++ Pong game made while learning the Raylib graphics framework
+
+Pong game made while learning the Raylib graphics framework
 ✒️ Description
 This game was a quick project I made to experiment with th Raylib graphisc framework and C++. Raylib made it easy to draw graphics on the screen which saved a ton of time while creating this project.
 
